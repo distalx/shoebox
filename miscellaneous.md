@@ -14,3 +14,6 @@ https://file.pizza/
 
 ####one time secret
 onetimesecret.com
+
+####strikingly
+www.strikingly.com
