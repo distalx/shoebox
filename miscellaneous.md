@@ -17,3 +17,19 @@ onetimesecret.com
 
 ####strikingly
 www.strikingly.com
+
+
+####27-people-share-the-one-cool-internet-or-computer-trick-they-know
+thoughtcatalog.com/charlie-shaw/2014/05/27-people-share-the-one-cool-internet-or-computer-trick-they-know
+
+####inception
+inception-explained.com
+
+####Solve, create, share and talk about jigsaw puzzles
+jigidi.com
+
+####
+www.iep.utm.edu/a
+
+####From one-click edits to advanced photo editing
+http://pho.to/
