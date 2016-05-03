@@ -30,6 +30,3 @@ jigidi.com
 
 ####
 www.iep.utm.edu/a
-
-####From one-click edits to advanced photo editing
-http://pho.to/
