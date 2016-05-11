@@ -36,3 +36,6 @@ http://www.theuselessweb.com/
 
 ####NAME MY RELEASE
 http://coshx.github.io/name-my-release/
+
+####Adorable Avatars is an avatar placeholder service for web developers and designers.
+http://avatars.adorable.io/
