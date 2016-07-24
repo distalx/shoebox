@@ -1,6 +1,5 @@
-#programming
+#programming for kids
 
-###For Kids
 
 ####kodable
 https://www.kodable.com/
