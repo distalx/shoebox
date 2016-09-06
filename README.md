@@ -1,5 +1,8 @@
 # shoebox
 
-This is a collection of weird things.
+A collection of things related programming.
+free online courses,
+articles,
+resources, etc ...
 
-[![PRs Welcome][prs-badge]][prs]
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
