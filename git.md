@@ -2,11 +2,13 @@
 
 ##online courses
 
-####code school Try Git
-https://www.codeschool.com/courses/try-git
+####[Try Git](https://www.codeschool.com/courses/try-git) by [code school](https://www.codeschool.com)
 
-####codecademy
-https://www.codecademy.com/learn/learn-git
+####[Learn Git](https://www.codecademy.com/learn/learn-git) by [codecademy](https://www.codecademy.com)
 
-####git-tower
-https://www.git-tower.com/learn/
+
+##other resources
+
+####[git-tower](https://www.git-tower.com/learn/)
+
+#####[oh shit git](http://ohshitgit.com/)
