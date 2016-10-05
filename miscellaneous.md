@@ -3,6 +3,9 @@
 
 http://www.geeksforgeeks.org/
 
+####[shortcut foo](https://www.shortcutfoo.com/)
+Learn Shortcuts. Work Smarter.
+
 ####[Floobits](https://floobits.com/)
 Floobits brings real-time collaborative editing to text editors.
 
