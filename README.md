@@ -15,7 +15,7 @@ A collection of things related programming.
 
 ###Topics
 
-- [angular.js](shoebox/blob/master/stuff/angular-js.md)
+- [angular.js](stuff/angular-js.md)
 - Bootstrap
 - code-practice
 - compilers
