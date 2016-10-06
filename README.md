@@ -5,7 +5,7 @@ A collection of things related programming.
 - articles,
 - resources, etc ...
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/distalx/shoebox/issues)
 
 
 
@@ -15,7 +15,7 @@ A collection of things related programming.
 
 ###Topics
 
-- angular.js
+- [angular.js](shoebox/blob/master/stuff/angular-js.md)
 - Bootstrap
 - code-practice
 - compilers
