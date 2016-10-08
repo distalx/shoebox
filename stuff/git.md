@@ -9,6 +9,8 @@
 
 ##other resources
 
+####[Git-it](http://jlord.us/git-it/)
+
 ####[git-tower](https://www.git-tower.com/learn/)
 
 #####[oh shit git](http://ohshitgit.com/)
