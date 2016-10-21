@@ -1,9 +1,13 @@
-*angularjs
+---
+title: Angular.JS
+---
 
-**online courses
 
-####code school
+
+## online courses
+
+#### code school
 https://www.codeschool.com/courses/shaping-up-with-angular-js
 
-####codecademy
+#### codecademy
 https://www.codecademy.com/learn/learn-angularjs
