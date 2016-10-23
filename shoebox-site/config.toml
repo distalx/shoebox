@@ -1,7 +1,7 @@
 siteTitle="Shoebox"
 baseColor = "#FF3D2E"
 linkPrefix = "/shoebox"
-docPages = [
+topicPages = [
   "/docs/",
   "/docs/angularjs/",
   "/docs/Bootstrap/",

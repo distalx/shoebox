@@ -89,7 +89,7 @@ module.exports = React.createClass({
                     marginTop: rhythm(-1),
                   }}
                 >
-                  Collection
+                  Topics
                 </Link>
               </Span>
             </Grid>
