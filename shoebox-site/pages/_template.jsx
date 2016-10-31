@@ -21,8 +21,7 @@ module.exports = React.createClass({
     }
   },
   render () {
-    const docsActive = includes(this.props.location.pathname, '/docs/')
-    const examplesActive = includes(this.props.location.pathname, '/examples/')
+    const topicsActive = includes(this.props.location.pathname, '/topic/')
 
     return (
       <div>
@@ -75,10 +74,10 @@ module.exports = React.createClass({
                   Github
                 </a>
                 <Link
-                  to={prefixLink('/docs/')}
+                  to={prefixLink('/topics/')}
                   style={{
-                    background: docsActive ? activeColors.bg : colors.bg,
-                    color: docsActive ? activeColors.fg : colors.fg,
+                    background: topicsActive ? activeColors.bg : colors.bg,
+                    color: topicsActive ? activeColors.fg : colors.fg,
                     float: 'right',
                     textDecoration: 'none',
                     paddingLeft: rhythm(1/2),
