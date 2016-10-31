@@ -1,8 +1,7 @@
 {
-  "name": "docs-site",
-  "description": "Gatsby example site",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "shoebox",
+  "description": "A collection of things related programming.",
+  "version": "0.0.1",
   "dependencies": {
     "chroma-js": "^0.7.2",
     "color-pairs-picker": "^1.3.5",
@@ -22,7 +21,6 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
   "main": "n/a",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
